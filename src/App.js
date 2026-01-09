@@ -1,4 +1,6 @@
 import './App.css';
+import fruits from './foods';
+import { choice, remove } from './helpers';
 
 function App() {
   return (
